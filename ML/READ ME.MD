@@ -88,7 +88,7 @@ Toutes les valeurs de k donnent une erreur d'entraînement nulle, ce qui suggèr
 ```
 Erreurs de validation : [0, 0, 0, ..., 0]
 ```
-⚠️ **Résultat suspect** : Toutes les erreurs de validation sont nulles.
+ **Résultat suspect** : Toutes les erreurs de validation sont nulles.
 
 ### 5.3 Hyperparamètre optimal
 
