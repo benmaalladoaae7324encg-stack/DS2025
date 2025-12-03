@@ -1,4 +1,5 @@
-Rapport Scientifique — Consumer Behavior & Shopping Habits
+Rapport  Marketing & Commerce :Consumer Behavior & Shopping Habits
+
 
 ## 1. Introduction
 
