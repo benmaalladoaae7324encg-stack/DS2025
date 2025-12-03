@@ -1,7 +1,7 @@
 Rapport  Marketing & Commerce :Consumer Behavior & Shopping Habits
 
 doaae benmaalla
-
+<img src="DOAE.jfif" style="height:464px;margin-right:432px"/>
 
 ## 1. Introduction
 
